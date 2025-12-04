@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "生きるよすが",
+  "base_artist": "月詠み",
+  "createdAt": "2025-12-04T02:56:13.209737Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "生きるよすが",
+      "artist": "月詠み",
+      "has_synced": false,
+      "path": "select/pl_01_生きるよすが_月詠み.txt"
+    }
+  ]
+}
